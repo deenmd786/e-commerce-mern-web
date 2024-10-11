@@ -1,2 +1,2 @@
-# e-commerce-web
+# e-commerce-mern-web
 Repo for e commerce website.
